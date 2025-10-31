@@ -1,3 +1,5 @@
+// Inheritance (pewarisan)
+
 public class Car extends Vehicle {
   private String modelName;
 
